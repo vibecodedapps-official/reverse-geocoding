@@ -1,0 +1,18 @@
+{
+  "fixtures": [
+    { "name": "Torres del Paine", "latitude": -50.9423, "longitude": -72.9656, "expected": { "status": "ok", "level": "region", "country_code": "CL", "admin1": "Region of Magallanes", "locality": null } },
+    { "name": "Sossusvlei", "latitude": -24.7333, "longitude": 15.2833, "expected": { "status": "ok", "level": "region", "country_code": "NA", "admin1": "Hardap Region", "locality": null } },
+    { "name": "Salar de Uyuni", "latitude": -20.1338, "longitude": -67.4891, "expected": { "status": "ok", "level": "region", "country_code": "BO", "admin1": "Potosí Department", "locality": null } },
+    { "name": "Maasai Mara", "latitude": -1.49, "longitude": 35.1439, "expected": { "status": "ok", "level": "region", "country_code": "KE", "admin1": "Narok County", "locality": null } },
+    { "name": "Hampi", "latitude": 15.335, "longitude": 76.46, "expected": { "status": "ok", "level": "locality", "country_code": "IN", "admin1": "Karnataka", "locality": "Hampi" } },
+    { "name": "Chefchaouen", "latitude": 35.1688, "longitude": -5.2636, "expected": { "status": "ok", "level": "locality", "country_code": "MA", "admin1": "Tanger-Tetouan-Al Hoceima", "locality": "Chefchaouen" } },
+    { "name": "Lalibela", "latitude": 12.0317, "longitude": 39.0476, "expected": { "status": "ok", "level": "locality", "country_code": "ET", "admin1": "Amhara", "locality": "Lalibela" } },
+    { "name": "Zanzibar, Stone Town", "latitude": -6.1622, "longitude": 39.1921, "expected": { "status": "ok", "level": "locality", "country_code": "TZ", "admin1": "Zanzibar Urban/West", "locality": "Zanzibar" } },
+    { "name": "Yosemite Valley", "latitude": 37.7456, "longitude": -119.5936, "expected": { "status": "ok", "level": "locality", "country_code": "US", "admin1": "California", "locality": "Yosemite Valley" } },
+    { "name": "Coastal point in the Baie des Anges, Nice", "latitude": 43.69, "longitude": 7.26, "expected": { "status": "ok", "level": "locality", "country_code": "FR", "admin1": "Provence-Alpes-Côte d'Azur" } },
+    { "name": "Border town Valga, Estonian side of Valka", "latitude": 57.7775, "longitude": 26.0472, "expected": { "status": "ok", "level": "locality", "country_code": "EE", "admin1": "Valgamaa", "locality": "Valga" } },
+    { "name": "Open Pacific Ocean", "latitude": 0, "longitude": -140, "expected": { "status": "no_result" } },
+    { "name": "Small island nation: Bridgetown, Barbados", "latitude": 13.0975, "longitude": -59.6167, "expected": { "status": "ok", "level": "locality", "country_code": "BB", "admin1": "Saint Michael", "locality": "Bridgetown" } },
+    { "name": "Large city center: Florence", "latitude": 43.7731, "longitude": 11.256, "expected": { "status": "ok", "level": "locality", "country_code": "IT", "admin1": null, "locality": "Florence", "label": { "max_label_length": 50, "short": "Florence, Italy" } } }
+  ]
+}

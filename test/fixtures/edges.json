@@ -1,0 +1,26 @@
+{
+  "antimeridian_pairs": [
+    { "name": "Chukotka", "latitude": 67 },
+    { "name": "Taveuni, Fiji", "latitude": -16.8 }
+  ],
+  "nearest": [
+    { "name": "Just east of -180 in Fiji, nearest settlement just west of 180", "latitude": -16.78, "longitude": -179.99, "nearest_west_of_180": true },
+    { "name": "Chukotka at -180", "latitude": 67, "longitude": -180 },
+    { "name": "North Pole", "latitude": 90, "longitude": 0 },
+    { "name": "South Pole", "latitude": -90, "longitude": 0 },
+    { "name": "Latitude 89.9", "latitude": 89.9, "longitude": 0 },
+    { "name": "Texarkana, Texas side", "latitude": 33.4415, "longitude": -94.048 }
+  ],
+  "internal_border": [
+    {
+      "name": "Texarkana, just inside Texas; the nearest settlement is in Arkansas",
+      "latitude": 33.4415,
+      "longitude": -94.048,
+      "nearest_settlement_admin1": "Arkansas",
+      "expected": { "country_code": "US", "admin1": "Texas", "level": "locality" }
+    }
+  ],
+  "shared_edge": [
+    { "name": "Four Corners", "latitude": 36.999, "longitude": -109.0452, "admin1_one_of": ["Arizona", "Colorado", "New Mexico", "Utah"] }
+  ]
+}
