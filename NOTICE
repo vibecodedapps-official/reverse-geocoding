@@ -1,0 +1,17 @@
+georeverse-svc
+Copyright 2026 vibecodedapps.net
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+This service is built on third-party open data that is not covered by the
+Apache License and carries its own attribution obligations:
+
+  GeoNames (https://www.geonames.org/), cities500, admin1CodesASCII and
+  countryInfo, licensed under Creative Commons Attribution 4.0
+  (https://creativecommons.org/licenses/by/4.0/).
+
+  geoBoundaries (https://www.geoboundaries.org/), Comprehensive Global
+  Administrative Zones ADM0 and ADM1, licensed under Creative Commons
+  Attribution 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+The pinned releases of each dataset are recorded in data/manifest.json.

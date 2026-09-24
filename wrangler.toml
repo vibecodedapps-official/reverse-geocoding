@@ -1,0 +1,23 @@
+name = "georeverse-svc"
+main = "src/worker/index.ts"
+# The newest date the pinned workerd in the test pool supports.
+compatibility_date = "2026-08-15"
+
+# data/build/*.bin are imported as ArrayBuffers.
+rules = [{ type = "Data", globs = ["**/*.bin"], fallthrough = false }]
+
+[[durable_objects.bindings]]
+name = "COUNTER"
+class_name = "DailyCounter"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["DailyCounter"]
+
+[observability.logs]
+enabled = true
+# Invocation logs record the request URL. Off, so the only log lines are the Worker's own.
+invocation_logs = false
+
+# Secret, not a var: KEYS is a JSON list of {"id", "sha256", "daily_limit"}.
+# Set with: wrangler secret put KEYS

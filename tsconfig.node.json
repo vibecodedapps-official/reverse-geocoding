@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "types": ["node"]
+  },
+  "include": ["data", "src/index", "src/resolver", "test/node", "test/data", "test/keys.ts", "test/global-setup.ts", "test/helpers", "vitest.config.ts"],
+  "exclude": []
+}

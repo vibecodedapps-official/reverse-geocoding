@@ -1,0 +1,22 @@
+# scratch work, never committed
+scratch/
+
+# build and data artifacts
+node_modules/
+dist/
+data/raw/
+data/build/
+.wrangler/
+
+# secrets and local env
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# editor and os
+.DS_Store
+Thumbs.db
+
+# test build of the synthetic fixture
+test/.build/

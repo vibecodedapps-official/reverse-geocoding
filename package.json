@@ -1,0 +1,29 @@
+{
+  "name": "georeverse-svc",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reverse geocoding service that turns a coordinate into a short place name at locality, region, or country level.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.node.json",
+    "test": "vitest run --project node --project workers",
+    "test:data": "vitest run --project data",
+    "check": "npm run typecheck && npm test",
+    "data:pin": "node data/pin.ts",
+    "data:build": "node data/build.ts",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "^0.22.0",
+    "@cloudflare/workers-types": "^5.20260917.1",
+    "@types/node": "^26.6.1",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11",
+    "wrangler": "^4.133.0"
+  }
+}
