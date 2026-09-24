@@ -6,7 +6,7 @@ import { parseFeatureLine, readLines } from "../../data/lib/cgaz.ts";
 
 describe("readLines", () => {
   it("returns whole lines when lines and multi-byte characters straddle chunk boundaries", () => {
-    const dir = mkdtempSync(join(tmpdir(), "georeverse-lines-"));
+    const dir = mkdtempSync(join(tmpdir(), "reverse-geocoding-lines-"));
     try {
       const path = join(dir, "features.geojson");
       writeFileSync(path, '{\n"features": [\n{ "shapeName": "Aysén" },\r\n{ "shapeName": "Río Turbio" }\n]\n}');
@@ -18,7 +18,7 @@ describe("readLines", () => {
   });
 
   it("reads the file again each time it is iterated, since the build reads the boundary files twice", () => {
-    const dir = mkdtempSync(join(tmpdir(), "georeverse-lines-"));
+    const dir = mkdtempSync(join(tmpdir(), "reverse-geocoding-lines-"));
     try {
       const path = join(dir, "features.geojson");
       writeFileSync(path, "a\nb\n");

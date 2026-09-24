@@ -1,4 +1,4 @@
-# georeverse-svc
+# reverse-geocoding
 
 A reverse geocoding service that turns a coordinate into a short place name at
 locality, region, or country level. It never stores the coordinate or the
@@ -36,7 +36,7 @@ Content-Type: application/json
     "data": {
       "license": "CC-BY-4.0",
       "attribution_text": "Place data from GeoNames and geoBoundaries, CC BY 4.0",
-      "attribution_url": "https://georeverse.example/"
+      "attribution_url": "https://reverse-geocoding.example/"
     }
   }
 }

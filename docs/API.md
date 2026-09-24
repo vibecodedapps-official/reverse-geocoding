@@ -1,4 +1,4 @@
-# georeverse-svc API, version 1
+# reverse-geocoding API, version 1
 
 This is the wire contract for version 1. Anything not in this document is not in version 1.
 
@@ -114,7 +114,7 @@ A request id is `req_` followed by 13 characters from the Crockford base32 alpha
     "data": {
       "license": "CC-BY-4.0",
       "attribution_text": "Place data from GeoNames and geoBoundaries, CC BY 4.0",
-      "attribution_url": "https://georeverse.example/"
+      "attribution_url": "https://reverse-geocoding.example/"
     }
   }
 }

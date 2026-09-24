@@ -1,5 +1,5 @@
 {
-  "name": "georeverse-svc",
+  "name": "reverse-geocoding",
   "version": "0.1.0",
   "private": true,
   "description": "Reverse geocoding service that turns a coordinate into a short place name at locality, region, or country level.",

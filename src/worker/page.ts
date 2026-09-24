@@ -1,7 +1,7 @@
 import type { IndexMeta } from "../index/format.ts";
 import { LOCALITY_THRESHOLD_KM, SEARCH_RADIUS_KM } from "../resolver/api.ts";
 
-const CONTRACT_URL = "https://github.com/vibecodedapps-official/georeverse-svc/blob/main/docs/API.md";
+const CONTRACT_URL = "https://github.com/vibecodedapps-official/reverse-geocoding/blob/main/docs/API.md";
 
 const ESCAPES: Record<string, string> = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
 
@@ -26,10 +26,10 @@ export function publicPage(meta: IndexMeta | null): string {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>georeverse-svc</title>
+<title>reverse-geocoding</title>
 </head>
 <body>
-<h1>georeverse-svc</h1>
+<h1>reverse-geocoding</h1>
 <p>A reverse geocoding service. It turns a latitude and longitude into a short place name at locality, region, or country level. The coordinate is truncated to at most 4 decimal places before it is resolved, and neither the coordinate nor the returned name is stored.</p>
 <p>A place is named at locality level when the nearest settlement in the same country is within ${esc(LOCALITY_THRESHOLD_KM)} km; otherwise the name is the region or the country. Settlements are searched within ${esc(SEARCH_RADIUS_KM)} km.</p>
 

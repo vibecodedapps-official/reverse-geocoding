@@ -67,7 +67,7 @@ it("serves the public page as HTML with the credit, the threshold, and the data 
     "Data retrieved 2026-09-24",
     "geoBoundariesCGAZ_ADM1.geojson: synthetic fixture",
     "22 UTF-16 code units and 22 code points",
-    'href="https://github.com/vibecodedapps-official/georeverse-svc/blob/main/docs/API.md"',
+    'href="https://github.com/vibecodedapps-official/reverse-geocoding/blob/main/docs/API.md"',
   ]) {
     expect(page).toContain(text);
   }

@@ -29,7 +29,7 @@ const offline = async (): Promise<Response> => {
 describe("ensurePinned", () => {
   let dir: string;
   beforeEach(() => {
-    dir = mkdtempSync(join(tmpdir(), "georeverse-pins-"));
+    dir = mkdtempSync(join(tmpdir(), "reverse-geocoding-pins-"));
   });
   afterEach(() => {
     rmSync(dir, { recursive: true, force: true });

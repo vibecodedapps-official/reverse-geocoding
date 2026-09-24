@@ -1,5 +1,5 @@
 {
-  "archive_base_url": "https://github.com/vibecodedapps-official/georeverse-svc/releases/download/data-archive/",
+  "archive_base_url": "https://github.com/vibecodedapps-official/reverse-geocoding/releases/download/data-archive/",
   "files": [
     {
       "name": "cities500.zip",
@@ -8,7 +8,7 @@
       "retrieved": "2026-09-24",
       "version": "2026-09-24",
       "sha256": "6ec75fdc8a46372f5f81b3d1431ece9afdccc98153b26ed58d01b59a24a6c259",
-      "archive_url": "https://github.com/vibecodedapps-official/georeverse-svc/releases/download/data-archive/6ec75fdc8a46372f5f81b3d1431ece9afdccc98153b26ed58d01b59a24a6c259"
+      "archive_url": "https://github.com/vibecodedapps-official/reverse-geocoding/releases/download/data-archive/6ec75fdc8a46372f5f81b3d1431ece9afdccc98153b26ed58d01b59a24a6c259"
     },
     {
       "name": "admin1CodesASCII.txt",
@@ -17,7 +17,7 @@
       "retrieved": "2026-09-24",
       "version": "2026-09-24",
       "sha256": "1da92a6323a5fec3176f3f743bf4cf4040fd56a876da55e46fbca23c863aa60a",
-      "archive_url": "https://github.com/vibecodedapps-official/georeverse-svc/releases/download/data-archive/1da92a6323a5fec3176f3f743bf4cf4040fd56a876da55e46fbca23c863aa60a"
+      "archive_url": "https://github.com/vibecodedapps-official/reverse-geocoding/releases/download/data-archive/1da92a6323a5fec3176f3f743bf4cf4040fd56a876da55e46fbca23c863aa60a"
     },
     {
       "name": "countryInfo.txt",
@@ -26,7 +26,7 @@
       "retrieved": "2026-09-24",
       "version": "2026-09-24",
       "sha256": "93bafc525813f22e4711ff9ed6d626343094ce48c26388dc7c49189b3d7d5512",
-      "archive_url": "https://github.com/vibecodedapps-official/georeverse-svc/releases/download/data-archive/93bafc525813f22e4711ff9ed6d626343094ce48c26388dc7c49189b3d7d5512"
+      "archive_url": "https://github.com/vibecodedapps-official/reverse-geocoding/releases/download/data-archive/93bafc525813f22e4711ff9ed6d626343094ce48c26388dc7c49189b3d7d5512"
     },
     {
       "name": "geoBoundariesCGAZ_ADM0.geojson",
@@ -35,7 +35,7 @@
       "retrieved": "2026-09-24",
       "version": "v6.0.0 (1289e40e366c7b320550be1ee0614a9472d572d4)",
       "sha256": "5e97632703209f192d87724c3c02c3ed70eccec32ebddb605af9647002b65d67",
-      "archive_url": "https://github.com/vibecodedapps-official/georeverse-svc/releases/download/data-archive/5e97632703209f192d87724c3c02c3ed70eccec32ebddb605af9647002b65d67"
+      "archive_url": "https://github.com/vibecodedapps-official/reverse-geocoding/releases/download/data-archive/5e97632703209f192d87724c3c02c3ed70eccec32ebddb605af9647002b65d67"
     },
     {
       "name": "geoBoundariesCGAZ_ADM1.geojson",
@@ -44,7 +44,7 @@
       "retrieved": "2026-09-24",
       "version": "v6.0.0 (1289e40e366c7b320550be1ee0614a9472d572d4)",
       "sha256": "f77bb14b78ccbebb48f9eeeffaba1a0b0c395d9d1cf503d1243b5ac4ccecee3f",
-      "archive_url": "https://github.com/vibecodedapps-official/georeverse-svc/releases/download/data-archive/f77bb14b78ccbebb48f9eeeffaba1a0b0c395d9d1cf503d1243b5ac4ccecee3f"
+      "archive_url": "https://github.com/vibecodedapps-official/reverse-geocoding/releases/download/data-archive/f77bb14b78ccbebb48f9eeeffaba1a0b0c395d9d1cf503d1243b5ac4ccecee3f"
     }
   ]
 }

@@ -1,7 +1,7 @@
 import { exports } from "cloudflare:workers";
 import { TEST_KEYS } from "../keys.ts";
 
-export const ORIGIN = "https://georeverse.test";
+export const ORIGIN = "https://reverse-geocoding.test";
 export const MAIN_KEY = TEST_KEYS[0].key;
 export const SMALL_KEY = TEST_KEYS[1].key;
 export const FLORENCE = { latitude: 43.7731, longitude: 11.256, max_label_length: 50 };

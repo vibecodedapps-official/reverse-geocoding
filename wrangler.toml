@@ -1,4 +1,4 @@
-name = "georeverse-svc"
+name = "reverse-geocoding"
 main = "src/worker/index.ts"
 # The newest date the pinned workerd in the test pool supports.
 compatibility_date = "2026-08-15"
