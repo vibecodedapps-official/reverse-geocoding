@@ -1,0 +1,365 @@
+shape_id,admin1_code,reason
+86790563B19626210530202,04,AE Fujairah: name matches GeoNames region AE.04; 3 of 5 settlements inside
+74100532B9856660291795,09,AG Redonda: no settlements inside; name matches GeoNames region AG.09
+26408823B90515543724533,,AO Cuando Cubango: no GeoNames region holds 80 percent of the settlements inside (top CBG 13 of 30)
+26408823B17220104796328,20,AO Luanda: name matches GeoNames region AO.20; 25 of 39 settlements inside
+39004313B39422738209134,,AQ Antarctica: no settlements inside
+19177384B97722443848736,01,AR Buenos Aires: name matches GeoNames region AR.01; 166 of 232 settlements inside
+19177384B49506124846693,,AR Ciudad Autónoma de Buenos Aires: no GeoNames region holds 80 percent of the settlements inside (top 01 22 of 30)
+82085004B40257551482390,01,AU Australian Capital Territory: several polygons lie in one GeoNames region; 100 of 100 settlements inside are AU.01
+82085004B12086860067424,01,AU Other Territories: several polygons lie in one GeoNames region; 1 of 1 settlements inside are AU.01
+63332228B70486487350611,,AZ Contiguous Azerbaijan: no GeoNames region holds 80 percent of the settlements inside (top 09 31 of 226)
+18249212B61473051882148,03,BB Saint George: no settlements inside; name matches GeoNames region BB.03
+18249212B1074587975674,10,BB Saint Philip: name matches GeoNames region BB.10; 1 of 2 settlements inside
+32408957B54440081464940,85,BD Barisal: name matches GeoNames region BD.85; 18 of 24 settlements inside
+87207978B95213924600823,13,BI Gitega: several polygons lie in one GeoNames region; 1 of 1 settlements inside are BI.13
+87207978B19413274687877,13,BI Karuzi: several polygons lie in one GeoNames region; 2 of 2 settlements inside are BI.13
+87207978B78895752231307,13,BI Muramvya: several polygons lie in one GeoNames region; 1 of 1 settlements inside are BI.13
+87207978B17615748265547,13,BI Mwaro: several polygons lie in one GeoNames region; 1 of 1 settlements inside are BI.13
+89281809B28557333284664,02,BN Brunei-Muara: name matches GeoNames region BN.02; 26 of 34 settlements inside
+57655419B63031142172255,32,BS Berry Islands: no settlements inside; name matches GeoNames region BS.32
+57655419B62023626616016,36,BS Black Point: no settlements inside; name matches GeoNames region BS.36
+57655419B6063467597350,37,BS Central Abaco: name matches GeoNames region BS.37; 1 of 2 settlements inside
+57655419B10554343974074,38,BS Central Andros: no settlements inside; name matches GeoNames region BS.38
+57655419B18095522454644,39,BS Central Eleuthera: no settlements inside; name matches GeoNames region BS.39
+57655419B78426284582077,25,BS City of Freeport: no settlements inside; name matches GeoNames region BS.25
+57655419B94344627065554,42,BS Grand Cay: no settlements inside; name matches GeoNames region BS.42
+57655419B91019969534321,43,BS Hope Town: no settlements inside; name matches GeoNames region BS.43
+57655419B49483307836090,44,BS Mangrove Cay: no settlements inside; name matches GeoNames region BS.44
+57655419B2538538242492,48,BS North Eleuthera: no settlements inside; name matches GeoNames region BS.48
+57655419B39711376309473,50,BS South Abaco: no settlements inside; name matches GeoNames region BS.50
+57655419B29435673895959,51,BS South Andros: no settlements inside; name matches GeoNames region BS.51
+57655419B1305095208594,,BS Spanish Wells: no settlements inside
+57655419B65085412826087,54,BS West Grand Bahama: name matches GeoNames region BS.54; 1 of 3 settlements inside
+66845921B82067974050695,,BT Thimpu: no GeoNames region holds 80 percent of the settlements inside (top 20 2 of 3)
+66845921B42953625422300,,BT Trongsa: no GeoNames region holds 80 percent of the settlements inside (top 18 1 of 2)
+57670837B89802666826813,12,BW Chobe District: name matches GeoNames region BW.12; 3 of 4 settlements inside
+57670837B51384475500083,04,BW Kgalagadi District: name matches GeoNames region BW.04; 6 of 8 settlements inside
+57670837B20379019036464,09,BW South-East District: name matches GeoNames region BW.09; 5 of 7 settlements inside
+45462678B57724394311820,04,BY Minsk City: name matches GeoNames region BY.04; 1 of 4 settlements inside
+63714938B88796154260316,18,CF Bangui: name matches GeoNames region CF.18; 1 of 2 settlements inside
+63714938B36943607193355,04,CF Mambéré-Kadéï: name matches GeoNames region CF.04; 2 of 3 settlements inside
+63714938B80965967760299,08,CF Mbomou: name matches GeoNames region CF.08; 3 of 4 settlements inside
+63714938B37860771262027,12,CF Ouham: name matches GeoNames region CF.12; 2 of 5 settlements inside
+63714938B93397482303242,13,CF Ouham-Pendé: name matches GeoNames region CF.13; 3 of 4 settlements inside
+43563684B38891657012300,30,CN Guangzhou Province: several polygons lie in one GeoNames region; 1470 of 1502 settlements inside are CN.30
+43563684B58229551045164,10,CN Hebei Province: name matches GeoNames region CN.10; 280 of 363 settlements inside
+43563684B69230098435171,30,CN Hong Kong Special Administrative Region: several polygons lie in one GeoNames region; 19 of 19 settlements inside are CN.30
+43563684B97104103456250,30,CN Macau Special Administrative Region: several polygons lie in one GeoNames region; 1 of 1 settlements inside are CN.30
+43563684B14397599951889,32,CN Sichuan Province: name matches GeoNames region CN.32; 256 of 398 settlements inside
+25444519B1274960689098,08,DJ Arta: name matches GeoNames region DJ.08; 1 of 4 settlements inside
+25444519B34443348585704,07,DJ Djibouti: no settlements inside; name matches GeoNames region DJ.07
+96108325B67235694688325,09,DM Saint Patrick: no settlements inside; name matches GeoNames region DM.09
+43142294B43473078766346,34,DZ Adrar: name matches GeoNames region DZ.34; 17 of 30 settlements inside
+43142294B57632161166824,38,DZ Béchar: name matches GeoNames region DZ.38; 2 of 3 settlements inside
+43142294B80473805298321,19,DZ Biskra: name matches GeoNames region DZ.19; 5 of 7 settlements inside
+43142294B6851000275455,43,DZ El Oued: name matches GeoNames region DZ.43; 6 of 9 settlements inside
+43142294B64493603110073,46,DZ Illizi: name matches GeoNames region DZ.46; 1 of 2 settlements inside
+43142294B70824426814000,50,DZ Ouargla: name matches GeoNames region DZ.50; 4 of 8 settlements inside
+43142294B23379165901565,53,DZ Tamanrasset: name matches GeoNames region DZ.53; 1 of 3 settlements inside
+780006B15798287521285,25,EC Santa Elena: name matches GeoNames region EC.25; 3 of 5 settlements inside
+21999144B44966158001622,,EE Lääne maakond: no GeoNames region holds 80 percent of the settlements inside (top 07 7 of 9)
+46179711B66765744751824,20,EG Damietta Governorate: name matches GeoNames region EG.20; 8 of 12 settlements inside
+46179711B4202910882635,07,EG Ismailia Governorate: name matches GeoNames region EG.07; 3 of 4 settlements inside
+46179711B25362750888095,,EG Luxor Governate: no GeoNames region holds 80 percent of the settlements inside (top 23 4 of 9)
+DIS020,,EH Western Sahara: no GeoNames region holds 80 percent of the settlements inside (top (empty) 17 of 27)
+12472421B65827279808895,,ER Northen Red Sea Region: no GeoNames region holds 80 percent of the settlements inside (top 02 1 of 2)
+75662566B72302855928957,,ET SNNPR: no GeoNames region holds 80 percent of the settlements inside (top 56 31 of 57)
+49019192B86083853836544,,FI Åland Islands: no settlements inside
+53030831B61477600220974,02,FJ Eastern: no settlements inside; name matches GeoNames region FJ.02
+93511190B28979172348328,06,GD Saint Patrick: name matches GeoNames region GD.06; 2 of 3 settlements inside
+13066534B60595656675538,68,GE Kvemo Kartli: name matches GeoNames region GE.68; 20 of 27 settlements inside
+42512837B26705409874577,,GL Northeast Greenland National Park: no settlements inside
+31243875B72482523363184,03,GM Janjanbureh: several polygons lie in one GeoNames region; 22 of 22 settlements inside are GM.03
+31243875B42421745591684,,GM Kanifing: no GeoNames region holds 80 percent of the settlements inside (top 01 13 of 17)
+31243875B86283726287100,03,GM Kuntaur: several polygons lie in one GeoNames region; 14 of 14 settlements inside are GM.03
+385441B29247776226513,04,GN Conakry: no settlements inside; name matches GeoNames region GN.04
+51917635B81265385249987,03,GQ Annobón: no settlements inside; name matches GeoNames region GQ.03
+51917635B14553299687650,06,GQ Centro Sur Province: name matches GeoNames region GQ.06; 3 of 4 settlements inside
+93993887B85814589700959,,GR Egean: no GeoNames region holds 80 percent of the settlements inside (top ESYE42 84 of 155)
+93993887B75841959134679,,GR Epirus-Western Macedonia: no GeoNames region holds 80 percent of the settlements inside (top ESYE21 112 of 185)
+93993887B93147517098288,,GR Macedonia-Thrace: no GeoNames region holds 80 percent of the settlements inside (top ESYE12 434 of 562)
+93993887B43116936981453,,GR Peloponisos-W. Greece & Ionian: no GeoNames region holds 80 percent of the settlements inside (top ESYE25 169 of 419)
+93993887B20638565859558,,GR Thessalia-Central Greece: no GeoNames region holds 80 percent of the settlements inside (top ESYE14 184 of 331)
+76643164B25325276017448,02,GW Quinara: name matches GeoNames region GW.02; 2 of 4 settlements inside
+76643164B14801811690770,07,GW Tombali: name matches GeoNames region GW.07; 3 of 4 settlements inside
+73500413B42913807349964,11,GY Cuyuni-Mazaruni: no settlements inside; name matches GeoNames region GY.11
+73500413B77355957241998,16,GY Pomeroon-Supenaam: no settlements inside; name matches GeoNames region GY.16
+49955354B18164660475406,,HT Département des Nippes: no GeoNames region holds 80 percent of the settlements inside (top 15 2 of 3)
+22733592B46801225244053,16,HU Pest: name matches GeoNames region HU.16; 150 of 278 settlements inside
+65028918B16658067687714,36,ID Papua: name matches GeoNames region ID.36; 34 of 76 settlements inside
+65028918B84835514626455,39,ID West Papua: name matches GeoNames region ID.39; 30 of 51 settlements inside
+1811400B81659894240990,22,IN Puducherry: name matches GeoNames region IN.22; 8 of 11 settlements inside
+90741666B18027903150762,13,IQ Kirkuk: name matches GeoNames region IQ.13; 7 of 9 settlements inside
+17685810B1629292304739,37,IR Golestan: several polygons lie in one GeoNames region; 55 of 55 settlements inside are IR.37
+17685810B76974127550435,37,IR Mazandaran: several polygons lie in one GeoNames region; 5 of 5 settlements inside are IR.37
+72843720B863019116732,,IT Centro: no GeoNames region holds 80 percent of the settlements inside (top 07 647 of 1854)
+72843720B81376294924159,,IT Isole: no GeoNames region holds 80 percent of the settlements inside (top 15 555 of 975)
+72843720B59566147937015,,IT Nord-Est: no GeoNames region holds 80 percent of the settlements inside (top 20 1096 of 2703)
+72843720B99597932318450,,IT Nord-Ovest: no GeoNames region holds 80 percent of the settlements inside (top 09 2004 of 3814)
+72843720B88210905209841,,IT Sud: no GeoNames region holds 80 percent of the settlements inside (top 04 803 of 2474)
+11528761B95441286388390,17,JM Kingston: no settlements inside; name matches GeoNames region JM.17
+32016919B53683499362611,11,KE Bomet: name matches GeoNames region KE.11; 2 of 5 settlements inside
+32016919B59887050611600,,KE Elgeyo-Marakwet: no GeoNames region holds 80 percent of the settlements inside (top 14 2 of 3)
+32016919B57902629823981,16,KE Garissa: name matches GeoNames region KE.16; 4 of 6 settlements inside
+32016919B83281423333591,41,KE Narok: name matches GeoNames region KE.41; 6 of 8 settlements inside
+37992800B97964954759505,28,KH Preah Sihanouk: name matches GeoNames region KH.28; 6 of 9 settlements inside
+97431129B55805139245338,01,KI Gilbert Islands: several polygons lie in one GeoNames region; 4 of 4 settlements inside are KI.01
+97431129B36644055464690,01,KI Phoenix Islands: several polygons lie in one GeoNames region; 8 of 8 settlements inside are KI.01
+52472329B19766585583682,07,KN Saint John Figtree: name matches GeoNames region KN.07; 1 of 2 settlements inside
+52472329B33869241417022,10,KN Saint Paul Charlestown: no settlements inside; name matches GeoNames region KN.10
+3916807B41102927738048,14,KP Nampo: name matches GeoNames region KP.14; 2 of 3 settlements inside
+3916807B15402665570595,07,KP North Hwanghae: name matches GeoNames region KP.07; 6 of 9 settlements inside
+68945753B46109248456415,18,KR Gwangju: no settlements inside; name matches GeoNames region KR.18
+68945753B58129180850627,,KR Sejong: no settlements inside
+68945753B55100681051852,11,KR Seoul: name matches GeoNames region KR.11; 3 of 4 settlements inside
+68945753B85001375391280,21,KR Ulsan: name matches GeoNames region KR.21; 1 of 2 settlements inside
+60633882B59498803395258,,KW Farwaniya: no GeoNames region holds 80 percent of the settlements inside (top 07 2 of 3)
+16772668B15091951761714,01,KZ Almaty Region: name matches GeoNames region KZ.01; 15 of 35 settlements inside
+16772668B8191406223821,15,KZ East Kazakhstan Region: name matches GeoNames region KZ.15; 25 of 45 settlements inside
+68408151B14355919278173,05,LB Keserwan-Jbeil: several polygons lie in one GeoNames region; 4 of 4 settlements inside are LB.05
+68408151B94332715190447,05,LB Mont-Liban: several polygons lie in one GeoNames region; 6 of 6 settlements inside are LB.05
+63095687B3915284984293,01,LC Anse la Raya: several polygons lie in one GeoNames region; 1 of 1 settlements inside are LC.01
+63095687B90177859016877,01,LC Canaries: several polygons lie in one GeoNames region; 1 of 1 settlements inside are LC.01
+63095687B42817258586373,07,LC Laborie: no settlements inside; name matches GeoNames region LC.07
+99731895B59592770013924,30,LK North Central Province: name matches GeoNames region LK.30; 3 of 4 settlements inside
+63558799B58245420334254,12,LS Leribe District: name matches GeoNames region LS.12; 5 of 7 settlements inside
+63558799B33254441338778,13,LS Mafeteng District: name matches GeoNames region LS.13; 2 of 5 settlements inside
+63558799B83139219064193,14,LS Maseru District: name matches GeoNames region LS.14; 9 of 13 settlements inside
+63558799B8829159228001,15,LS Mohale's Hoek District: name matches GeoNames region LS.15; 3 of 5 settlements inside
+63558799B57972026302791,17,LS Qacha's Nek District: name matches GeoNames region LS.17; 1 of 2 settlements inside
+10800210B42650213577906,82,LY Al Marqab: name matches GeoNames region LY.82; 4 of 6 settlements inside
+10800210B51126172802477,68,LY Az Zawiyah: name matches GeoNames region LY.68; 6 of 11 settlements inside
+70788906B89532291078161,11,MA Laâyoune-Sakia El Hamra: name matches GeoNames region MA.11; 2 of 3 settlements inside
+25212430B269818099865,79,MD Leova: name matches GeoNames region MD.79; 1 of 2 settlements inside
+59799669B20110685483927,05,ME Budva Municipality: name matches GeoNames region ME.05; 2 of 3 settlements inside
+59799669B20319020653405,16,ME Podgorica Municipality: name matches GeoNames region ME.16; 9 of 12 settlements inside
+27540722B82031840289091,25,MG Atsimo-Atsinanana: name matches GeoNames region MG.25; 6 of 10 settlements inside
+27540722B59950383788875,,MG Vatovavy-Fitovinany: no GeoNames region holds 80 percent of the settlements inside (top 26 4 of 8)
+77969171B12128378439827,010,MH Ailinglaplap: no settlements inside; name matches GeoNames region MH.010
+77969171B15122701338463,030,MH Ailuk: no settlements inside; name matches GeoNames region MH.030
+77969171B74110826491534,040,MH Arno: no settlements inside; name matches GeoNames region MH.040
+77969171B26019325861322,050,MH Aur: no settlements inside; name matches GeoNames region MH.050
+77969171B38591821482466,080,MH Ebon: no settlements inside; name matches GeoNames region MH.080
+77969171B48993043209426,090,MH Enewetak: no settlements inside; name matches GeoNames region MH.090
+77969171B260410775552,110,MH Jabat: no settlements inside; name matches GeoNames region MH.110
+77969171B26377641198864,120,MH Jaluit: no settlements inside; name matches GeoNames region MH.120
+77969171B60065562167569,140,MH Kili: no settlements inside; name matches GeoNames region MH.140
+77969171B49398466976617,150,MH Kwajalein: no settlements inside; name matches GeoNames region MH.150
+77969171B98050526329739,180,MH Likiep: no settlements inside; name matches GeoNames region MH.180
+77969171B31419900613539,300,MH Maloelap: no settlements inside; name matches GeoNames region MH.300
+77969171B53385125256121,310,MH Mejit: no settlements inside; name matches GeoNames region MH.310
+77969171B68844710326431,390,MH Ujae: no settlements inside; name matches GeoNames region MH.390
+77969171B78565267382439,,MH Utirik: no settlements inside
+77969171B89836250003833,420,MH Wotho: no settlements inside; name matches GeoNames region MH.420
+19869673B25367051519859,,MK East: no GeoNames region holds 80 percent of the settlements inside (top B4 4 of 20)
+19869673B2276524487216,,MK Northeast: no GeoNames region holds 80 percent of the settlements inside (top 59 7 of 16)
+19869673B93268339583324,,MK Pelagonia: no GeoNames region holds 80 percent of the settlements inside (top 06 20 of 78)
+19869673B18118429348634,,MK Polog: no GeoNames region holds 80 percent of the settlements inside (top C3 11 of 48)
+19869673B29343041094723,,MK Skopje: no GeoNames region holds 80 percent of the settlements inside (top F6 23 of 54)
+19869673B18425588006505,,MK Southeast: no GeoNames region holds 80 percent of the settlements inside (top 72 5 of 27)
+19869673B24262378327284,,MK Southwest: no GeoNames region holds 80 percent of the settlements inside (top 43 11 of 31)
+19869673B59759079390778,,MK Vardar: no GeoNames region holds 80 percent of the settlements inside (top F1 6 of 28)
+92416918B70420899930674,01,ML Bamako: name matches GeoNames region ML.01; 1 of 2 settlements inside
+92416918B98496355207236,09,ML Gao: name matches GeoNames region ML.09; 5 of 8 settlements inside
+92416918B34817349162892,08,ML Tombouctou: name matches GeoNames region ML.08; 5 of 7 settlements inside
+14279143B32551742065768,,MN Darkhan-Uul: no GeoNames region holds 80 percent of the settlements inside (top 23 3 of 4)
+64602211B49127339036992,12,MR Inchiri: name matches GeoNames region MR.12; 1 of 2 settlements inside
+64602211B71428746643775,,MR Nouakchott: no GeoNames region holds 80 percent of the settlements inside (top 13 2 of 5)
+83640313B42587750659802,,MT Bormla: no settlements inside
+83640313B47184915596760,,MT Fgura: no settlements inside
+83640313B52026072381253,09,MT Floriana: no settlements inside; name matches GeoNames region MT.09
+83640313B32595760925513,11,MT Ghajnsielem: name matches GeoNames region MT.11; 1 of 2 settlements inside
+83640313B28463401337071,,MT Isla: no settlements inside
+83640313B18835650997044,,MT Mdina: no settlements inside
+83640313B22513233777013,,MT Msida: no settlements inside
+83640313B41251532632205,,MT Rabat Malta: no GeoNames region holds 80 percent of the settlements inside (top 24 1 of 2)
+83640313B77690414343492,,MT Saint Lucia's: no settlements inside
+83640313B42870636526721,,MT Santa Venera: no GeoNames region holds 80 percent of the settlements inside (top 23 1 of 2)
+83640313B59486877017515,,MT Tarxien: no GeoNames region holds 80 percent of the settlements inside (top 08 1 of 3)
+83640313B86571698528234,60,MT Valletta: name matches GeoNames region MT.60; 1 of 2 settlements inside
+65221844B12885462064369,,MU St. Brandon: no settlements inside
+51498476B73369667546014,,MV Alif Alif: no settlements inside
+51498476B43133516688400,,MV Baa: no settlements inside
+51498476B18033305951239,,MV Dhaalu: no settlements inside
+51498476B61555223714101,,MV Faafu: no settlements inside
+51498476B32085377281353,,MV Haa Alif: no settlements inside
+51498476B6598157875857,,MV Lhaviyani: no settlements inside
+51498476B86517013613716,44,MV Raa: no settlements inside; name matches GeoNames region MV.44
+51498476B41041245420758,,MV Thaa: no settlements inside
+51498476B82630679458175,,MV Vaavu: no settlements inside
+15666254B4265207353082,15,MY Labuan: name matches GeoNames region MY.15; 1 of 2 settlements inside
+27363107B47421408423272,,MZ Maputo: no GeoNames region holds 80 percent of the settlements inside (top 04 11 of 14)
+33880854B56520056677317,,NA Kavango: no GeoNames region holds 80 percent of the settlements inside (top 40 2 of 3)
+33880854B50677770066764,21,NA Khomas: name matches GeoNames region NA.21; 3 of 4 settlements inside
+87150794B58281898249288,,NE Tahoua/Agadez: no GeoNames region holds 80 percent of the settlements inside (top 06 13 of 22)
+87150794B17606801029036,,NE Zinder/Diffa: no GeoNames region holds 80 percent of the settlements inside (top 07 12 of 18)
+71437522B84427958303197,,NO Troms og Finnmark: no GeoNames region holds 80 percent of the settlements inside (top 18 24 of 41)
+71437522B75605567014825,,NO Vestfold og Telemark: no GeoNames region holds 80 percent of the settlements inside (top 17 23 of 44)
+71437522B91482774809601,,NO Viken: no GeoNames region holds 80 percent of the settlements inside (top 01 58 of 114)
+42797286B10235022797721,02,NR Anabar: no settlements inside; name matches GeoNames region NR.02
+42797286B47186779397710,03,NR Anetan: no settlements inside; name matches GeoNames region NR.03
+42797286B13012859405048,04,NR Anibare: no settlements inside; name matches GeoNames region NR.04
+42797286B47390171381253,05,NR Baiti: no settlements inside; name matches GeoNames region NR.05
+42797286B3474402438736,06,NR Boe: no settlements inside; name matches GeoNames region NR.06
+42797286B1837224955513,08,NR Denigomodu: no settlements inside; name matches GeoNames region NR.08
+42797286B43186886097675,09,NR Ewa: no settlements inside; name matches GeoNames region NR.09
+42797286B57716352557989,10,NR Ijuw: no settlements inside; name matches GeoNames region NR.10
+42797286B38537109036861,11,NR Meneng: no settlements inside; name matches GeoNames region NR.11
+42797286B97017492085150,12,NR Nibok: no settlements inside; name matches GeoNames region NR.12
+42797286B16537422686347,13,NR Uaboe: no settlements inside; name matches GeoNames region NR.13
+42797286B93959359959633,14,NR Yaren: no settlements inside; name matches GeoNames region NR.14
+34121849B71010913728332,,OM Al Batinah: no GeoNames region holds 80 percent of the settlements inside (top 11 5 of 8)
+34121849B48568874604869,,OM Ash Sharqiyah: no GeoNames region holds 80 percent of the settlements inside (top 12 3 of 5)
+34121849B37717587073732,,OM Az Zahirah: no GeoNames region holds 80 percent of the settlements inside (top 07 6 of 12)
+602756B89852769449867,20,PG National Capital District: no settlements inside; name matches GeoNames region PG.20
+70912109B38683933016378,08,PK Islamabad Capital Territory: name matches GeoNames region PK.08; 3 of 4 settlements inside
+51375826B80300454073965,16,PW Sonsorol: no settlements inside; name matches GeoNames region PW.16
+41074048B91434818545320,SE,RS Belgrade: several polygons lie in one GeoNames region; 52 of 52 settlements inside are RS.SE
+41074048B65770096848171,SE,RS Bor District: several polygons lie in one GeoNames region; 6 of 6 settlements inside are RS.SE
+41074048B37077902983888,SE,RS Branicevo District: several polygons lie in one GeoNames region; 14 of 14 settlements inside are RS.SE
+41074048B68944780204869,VO,RS Central Banat District: several polygons lie in one GeoNames region; 52 of 52 settlements inside are RS.VO
+41074048B152991575474,SE,RS Jablanica District: several polygons lie in one GeoNames region; 7 of 7 settlements inside are RS.SE
+41074048B35785930294755,SE,RS Kolubara District: several polygons lie in one GeoNames region; 8 of 8 settlements inside are RS.SE
+41074048B6540860887110,SE,RS Macva District: several polygons lie in one GeoNames region; 61 of 61 settlements inside are RS.SE
+41074048B87154505224045,SE,RS Moravica District: several polygons lie in one GeoNames region; 9 of 9 settlements inside are RS.SE
+41074048B35657283611645,SE,RS Nisava District: several polygons lie in one GeoNames region; 8 of 8 settlements inside are RS.SE
+41074048B35998987381060,VO,RS North Backa District: several polygons lie in one GeoNames region; 8 of 8 settlements inside are RS.VO
+41074048B51566569224291,VO,RS North Banat District: several polygons lie in one GeoNames region; 24 of 24 settlements inside are RS.VO
+41074048B26185342001900,SE,RS Pcinja District: several polygons lie in one GeoNames region; 22 of 22 settlements inside are RS.SE
+41074048B47082150623141,SE,RS Pirot District: several polygons lie in one GeoNames region; 5 of 5 settlements inside are RS.SE
+41074048B12372480273054,SE,RS Podunavlje District: several polygons lie in one GeoNames region; 4 of 4 settlements inside are RS.SE
+41074048B32695847055571,SE,RS Pomoravlje District: several polygons lie in one GeoNames region; 7 of 7 settlements inside are RS.SE
+41074048B66445282038706,SE,RS Rasina District: several polygons lie in one GeoNames region; 5 of 5 settlements inside are RS.SE
+41074048B45384402492685,SE,RS Raska District: several polygons lie in one GeoNames region; 8 of 8 settlements inside are RS.SE
+41074048B42085876522793,VO,RS South Backa District: several polygons lie in one GeoNames region; 40 of 40 settlements inside are RS.VO
+41074048B611919772148,VO,RS South Banat District: several polygons lie in one GeoNames region; 49 of 49 settlements inside are RS.VO
+41074048B30766942237996,SE,RS Sumadija District: several polygons lie in one GeoNames region; 7 of 7 settlements inside are RS.SE
+41074048B7823241267107,VO,RS Syrmia District: several polygons lie in one GeoNames region; 45 of 45 settlements inside are RS.VO
+41074048B62787435476864,SE,RS Toplica District: several polygons lie in one GeoNames region; 10 of 10 settlements inside are RS.SE
+41074048B16574264174015,VO,RS West Backa District: several polygons lie in one GeoNames region; 18 of 18 settlements inside are RS.VO
+41074048B40253307374301,SE,RS Zajecar District: several polygons lie in one GeoNames region; 5 of 5 settlements inside are RS.SE
+41074048B96203602850640,SE,RS Zlatibor District: several polygons lie in one GeoNames region; 18 of 18 settlements inside are RS.SE
+17018030B21762340724861,10,SB Central: no settlements inside; name matches GeoNames region SB.10
+17018030B68013150931387,12,SB Choiseul: no settlements inside; name matches GeoNames region SB.12
+17018030B21058058503942,06,SB Guadalcanal: name matches GeoNames region SB.06; 2 of 3 settlements inside
+17018030B36628097040544,07,SB Isabel: no settlements inside; name matches GeoNames region SB.07
+17018030B28135645457785,03,SB Malaita: no settlements inside; name matches GeoNames region SB.03
+17018030B84591335552725,13,SB Rennell and Bellona: no settlements inside; name matches GeoNames region SB.13
+17018030B19935783635883,09,SB Temotu: no settlements inside; name matches GeoNames region SB.09
+17018030B8659224027401,11,SB Western: no settlements inside; name matches GeoNames region SB.11
+4304713B87843643892528,,SC Anse Etoil: no settlements inside
+4304713B21107318630465,28,SC Au Cap: no settlements inside; name matches GeoNames region SC.28
+4304713B38530476923333,,SC Baie Lazar: no GeoNames region holds 80 percent of the settlements inside (top 06 1 of 2)
+4304713B88598061182448,,SC Beau Vallo: no settlements inside
+4304713B26716977032117,10,SC Bel Ombre: name matches GeoNames region SC.10; 1 of 2 settlements inside
+4304713B90252608075096,,SC Mont Fleur: no settlements inside
+4304713B25967812410873,,SC Outer Isla: no settlements inside
+4304713B64732243105598,,SC Roche CaÃ¯m: no settlements inside
+4304713B51488395510296,23,SC Takamaka: no settlements inside; name matches GeoNames region SC.23
+86620642B69119058579524,,SD Abyei PCA: no settlements inside
+49756563B71725710252082,,SG CENTRAL REGION: no GeoNames region holds 80 percent of the settlements inside (top 00 31 of 57)
+49756563B91384122076896,,SG EAST REGION: settlement code 00 has no GeoNames region
+49756563B73572011151336,,SG NORTH REGION: no GeoNames region holds 80 percent of the settlements inside (top 03 4 of 9)
+49756563B55738899153180,,SG NORTH-EAST REGION: no GeoNames region holds 80 percent of the settlements inside (top 00 11 of 14)
+49756563B34226909336254,,SG WEST REGION: no GeoNames region holds 80 percent of the settlements inside (top 00 12 of 26)
+3739544B32704473481330,,SI Vzhodna: no GeoNames region holds 80 percent of the settlements inside (top N5 15 of 348)
+3739544B2739881953900,,SI Zahodna Slovenija: no GeoNames region holds 80 percent of the settlements inside (top 50 19 of 224)
+276375B27851101452101,03,SM Domagnano: name matches GeoNames region SM.03; 1 of 2 settlements inside
+83879307B67680758004346,19,SO Togdheer: name matches GeoNames region SO.19; 4 of 6 settlements inside
+75366066B25905390127614,01,SZ Hhohho: name matches GeoNames region SZ.01; 6 of 8 settlements inside
+12702645B16834523743175,NI,TO Niuas: no settlements inside; name matches GeoNames region TO.NI
+22272344B90104046252093,05,TT Port of Spain: name matches GeoNames region TT.05; 2 of 3 settlements inside
+22272344B98197828393532,SJL,TT San Juan-Laventille: no settlements inside; name matches GeoNames region TT.SJL
+22272344B26544115797749,TUP,TT Tunapuna-Piarco: name matches GeoNames region TT.TUP; 3 of 4 settlements inside
+17741764B90379454256238,NUI,TV Nui: no settlements inside; name matches GeoNames region TV.NUI
+17741764B16955565777837,NKF,TV Nukufetau: no settlements inside; name matches GeoNames region TV.NKF
+90331920B54932243986706,04,TW Changhua County: several polygons lie in one GeoNames region; 13 of 13 settlements inside are TW.04
+90331920B90000183725132,04,TW Chiayi: several polygons lie in one GeoNames region; 2 of 2 settlements inside are TW.04
+90331920B44631347362338,04,TW Chiayi County: several polygons lie in one GeoNames region; 4 of 4 settlements inside are TW.04
+90331920B8990770803141,04,TW Hsinchu: several polygons lie in one GeoNames region; 1 of 1 settlements inside are TW.04
+90331920B98084155135420,04,TW Hsinchu County: several polygons lie in one GeoNames region; 3 of 3 settlements inside are TW.04
+90331920B93110903621752,04,TW Hualien County: several polygons lie in one GeoNames region; 2 of 2 settlements inside are TW.04
+90331920B81487360502151,04,TW Keelung: several polygons lie in one GeoNames region; 1 of 1 settlements inside are TW.04
+90331920B60519442170303,01,TW Kinmen: several polygons lie in one GeoNames region; 6 of 6 settlements inside are TW.01
+90331920B68512430020187,01,TW Matsu Islands: several polygons lie in one GeoNames region; 2 of 2 settlements inside are TW.01
+90331920B28258400455048,04,TW Miaoli County: several polygons lie in one GeoNames region; 2 of 2 settlements inside are TW.04
+90331920B80042697765976,04,TW Nantou County: several polygons lie in one GeoNames region; 6 of 6 settlements inside are TW.04
+90331920B34778475945127,04,TW Penghu: several polygons lie in one GeoNames region; 1 of 1 settlements inside are TW.04
+90331920B3426825384645,04,TW Pingtung County: several polygons lie in one GeoNames region; 4 of 4 settlements inside are TW.04
+90331920B7705287137405,04,TW Taichung: several polygons lie in one GeoNames region; 5 of 5 settlements inside are TW.04
+90331920B35610459745524,04,TW Tainan: several polygons lie in one GeoNames region; 4 of 4 settlements inside are TW.04
+90331920B22703176907123,04,TW Taipei: several polygons lie in one GeoNames region; 2 of 2 settlements inside are TW.04
+90331920B88579316672132,04,TW Taitung County: several polygons lie in one GeoNames region; 3 of 3 settlements inside are TW.04
+90331920B61423557936862,04,TW Taoyuan: several polygons lie in one GeoNames region; 5 of 5 settlements inside are TW.04
+90331920B45331697504939,04,TW Yilan County: several polygons lie in one GeoNames region; 1 of 1 settlements inside are TW.04
+90331920B28650079022847,04,TW Yunlin County: several polygons lie in one GeoNames region; 6 of 6 settlements inside are TW.04
+36957248B97200142584881,12,TZ Mwanza: name matches GeoNames region TZ.12; 11 of 15 settlements inside
+66186276B68035916752114,,US American Samoa: no settlements inside
+66186276B16791499040259,,US Commonwealth of the Northern Mariana Islands: no settlements inside
+66186276B63361112364184,,US Guam: no settlements inside
+66186276B86072070009793,,US Puerto Rico: no settlements inside
+66186276B43103824256708,,US United States Virgin Islands: no settlements inside
+52476719B53484862947726,,VA Vatican City: settlement code (empty) has no GeoNames region
+94954027B28834518253219,04,VC Saint George: name matches GeoNames region VC.04; 6 of 9 settlements inside
+42786344B77541452473448,24,VE Dependencias Federales: no settlements inside; name matches GeoNames region VE.24
+63759600B46141220358660,91,VN An Giang: several polygons lie in one GeoNames region; 20 of 21 settlements inside are VN.91
+63759600B21811289888982,79,VN Bà Rịa–Vũng Tàu: several polygons lie in one GeoNames region; 16 of 16 settlements inside are VN.79
+63759600B37262939240335,24,VN Bắc Giang: several polygons lie in one GeoNames region; 10 of 10 settlements inside are VN.24
+63759600B29118141744967,19,VN Bắc Kạn: several polygons lie in one GeoNames region; 10 of 10 settlements inside are VN.19
+63759600B49404698723526,96,VN Bạc Liêu: several polygons lie in one GeoNames region; 9 of 9 settlements inside are VN.96
+63759600B40382966221261,24,VN Bắc Ninh: several polygons lie in one GeoNames region; 9 of 10 settlements inside are VN.24
+63759600B71233846988018,86,VN Bến Tre: several polygons lie in one GeoNames region; 9 of 9 settlements inside are VN.86
+63759600B9901642676381,52,VN Bình Định: several polygons lie in one GeoNames region; 11 of 11 settlements inside are VN.52
+63759600B4649941622975,79,VN Bình Dương: several polygons lie in one GeoNames region; 6 of 6 settlements inside are VN.79
+63759600B13042736323456,75,VN Bình Phước: several polygons lie in one GeoNames region; 8 of 8 settlements inside are VN.75
+63759600B31473825670333,68,VN Bình Thuận: several polygons lie in one GeoNames region; 9 of 10 settlements inside are VN.68
+63759600B81181225404594,96,VN Cà Mau: several polygons lie in one GeoNames region; 15 of 15 settlements inside are VN.96
+63759600B21046589863912,92,VN Cần Thơ: several polygons lie in one GeoNames region; 10 of 11 settlements inside are VN.92
+63759600B5991530625500,79,VN Côn Đảo: several polygons lie in one GeoNames region; 1 of 1 settlements inside are VN.79
+63759600B8583399541445,48,VN Đà Nẵng: several polygons lie in one GeoNames region; 8 of 8 settlements inside are VN.48
+63759600B97182540787332,66,VN Đắk Lắk: several polygons lie in one GeoNames region; 17 of 17 settlements inside are VN.66
+63759600B22683796323846,68,VN Đắk Nông: several polygons lie in one GeoNames region; 6 of 6 settlements inside are VN.68
+63759600B12839449494422,75,VN Đồng Nai: several polygons lie in one GeoNames region; 10 of 10 settlements inside are VN.75
+63759600B81354309972615,82,VN Đồng Tháp: several polygons lie in one GeoNames region; 11 of 12 settlements inside are VN.82
+63759600B15361955936842,52,VN Gia Lai: several polygons lie in one GeoNames region; 14 of 14 settlements inside are VN.52
+63759600B80209413202681,08,VN Hà Giang: several polygons lie in one GeoNames region; 16 of 16 settlements inside are VN.08
+63759600B38291039937725,37,VN Hà Nam: several polygons lie in one GeoNames region; 7 of 8 settlements inside are VN.37
+63759600B57390768683549,,VN Hải Phòng: no GeoNames region holds 80 percent of the settlements inside (top 31 5 of 7)
+63759600B90584107995256,92,VN Hậu Giang: several polygons lie in one GeoNames region; 7 of 7 settlements inside are VN.92
+63759600B80663352659785,79,VN Ho Chi Minh: several polygons lie in one GeoNames region; 23 of 24 settlements inside are VN.79
+63759600B96462676465033,25,VN Hòa Bình: several polygons lie in one GeoNames region; 11 of 12 settlements inside are VN.25
+63759600B38696477403674,33,VN Hưng Yên: several polygons lie in one GeoNames region; 7 of 8 settlements inside are VN.33
+63759600B80040926405936,56,VN Khánh Hòa: several polygons lie in one GeoNames region; 9 of 9 settlements inside are VN.56
+63759600B18022923052532,91,VN Kiên Giang: several polygons lie in one GeoNames region; 14 of 14 settlements inside are VN.91
+63759600B65226847193503,51,VN Kon Tum: several polygons lie in one GeoNames region; 8 of 8 settlements inside are VN.51
+63759600B25056861299541,68,VN Lâm Đồng: several polygons lie in one GeoNames region; 22 of 22 settlements inside are VN.68
+63759600B43481155123024,15,VN Lào Cai: several polygons lie in one GeoNames region; 11 of 11 settlements inside are VN.15
+63759600B22652371205312,80,VN Long An: several polygons lie in one GeoNames region; 11 of 11 settlements inside are VN.80
+63759600B40468097531795,37,VN Nam Định: several polygons lie in one GeoNames region; 9 of 10 settlements inside are VN.37
+63759600B34339839848337,37,VN Ninh Bình: several polygons lie in one GeoNames region; 9 of 9 settlements inside are VN.37
+63759600B19155127097543,56,VN Ninh Thuận: several polygons lie in one GeoNames region; 5 of 5 settlements inside are VN.56
+63759600B45971409679814,25,VN Phú Thọ: several polygons lie in one GeoNames region; 16 of 18 settlements inside are VN.25
+63759600B26645729855564,66,VN Phú Yên: several polygons lie in one GeoNames region; 6 of 6 settlements inside are VN.66
+63759600B63586366081005,44,VN Quảng Bình: several polygons lie in one GeoNames region; 8 of 8 settlements inside are VN.44
+63759600B74453713760270,48,VN Quảng Nam: several polygons lie in one GeoNames region; 44 of 45 settlements inside are VN.48
+63759600B52816170319692,51,VN Quảng Ngãi: several polygons lie in one GeoNames region; 14 of 14 settlements inside are VN.51
+63759600B21465540527765,44,VN Quảng Trị: several polygons lie in one GeoNames region; 12 of 12 settlements inside are VN.44
+63759600B58335636470412,92,VN Sóc Trăng: several polygons lie in one GeoNames region; 10 of 10 settlements inside are VN.92
+63759600B24834630697040,80,VN Tây Ninh: several polygons lie in one GeoNames region; 11 of 12 settlements inside are VN.80
+63759600B57830284065529,33,VN Thái Bình: several polygons lie in one GeoNames region; 8 of 8 settlements inside are VN.33
+63759600B68663063324919,19,VN Thái Nguyên: several polygons lie in one GeoNames region; 11 of 12 settlements inside are VN.19
+63759600B12588044805894,82,VN Tiền Giang: several polygons lie in one GeoNames region; 9 of 9 settlements inside are VN.82
+63759600B34771484427393,86,VN Trà Vinh: several polygons lie in one GeoNames region; 6 of 6 settlements inside are VN.86
+63759600B31607366287554,08,VN Tuyên Quang: several polygons lie in one GeoNames region; 5 of 5 settlements inside are VN.08
+63759600B66868150968055,86,VN Vĩnh Long: several polygons lie in one GeoNames region; 7 of 7 settlements inside are VN.86
+63759600B34367175145761,25,VN Vĩnh Phúc: several polygons lie in one GeoNames region; 8 of 9 settlements inside are VN.25
+63759600B52601599488063,15,VN Yên Bái: several polygons lie in one GeoNames region; 9 of 9 settlements inside are VN.15
+40696546B9385579031596,02,WS Aiga-i-le-Tai: no settlements inside; name matches GeoNames region WS.02
+40696546B40781349975951,03,WS Atua: name matches GeoNames region WS.03; 3 of 8 settlements inside
+40696546B94827234951055,,WS Fa'asaleleage: no settlements inside
+40696546B72194673836531,08,WS Palauli: name matches GeoNames region WS.08; 2 of 4 settlements inside
+40696546B29543190564601,10,WS Tuamasaga: name matches GeoNames region WS.10; 11 of 18 settlements inside
+40696546B90373058224054,06,WS Va'a-o-Fonoti: no settlements inside; name matches GeoNames region WS.06
+18629408B57175931824869,,YE Socotra: no GeoNames region holds 80 percent of the settlements inside (top 28 2 of 3)
+6923714B60407914126357,02,ZM Central: name matches GeoNames region ZM.02; 7 of 9 settlements inside

@@ -1,0 +1,12 @@
+# GeoNames.org Country Information
+# ================================
+#
+# Synthetic test excerpt in the countryInfo.txt format.
+#
+#ISO	ISO3	ISO-Numeric	fips	Country	Capital	Area(in sq km)	Population	Continent	tld	CurrencyCode	CurrencyName	Phone	Postal Code Format	Postal Code Regex	Languages	geonameid	neighbours	EquivalentFipsCode
+AR	ARG	032	AR	Argentina	Buenos Aires	2766890	44938712	SA	.ar	ARS	Peso	54	@####@@@	^[A-Z]?\d{4}[A-Z]{0,3}$	es-AR,en,it,de,fr,gn	3865483	CL,BO,UY,PY,BR	
+CL	CHL	152	CI	Chile	Santiago	756950	18729160	SA	.cl	CLP	Peso	56	#######	^(\d{7})$	es-CL	3895114	PE,BO,AR	
+FJ	FJI	242	FJ	Fiji	Suva	18270	883483	OC	.fj	FJD	Dollar	679			en-FJ,fj	2205218		
+GH	GHA	288	GH	Ghana	Accra	239460	29767108	AF	.gh	GHS	Cedi	233			en-GH,ak,ee,tw	2300660	CI,TG,BF	
+IT	ITA	380	IT	Italy	Rome	301230	60431283	EU	.it	EUR	Euro	39	#####	^(\d{5})$	it-IT,de-IT,fr-IT,sc,ca,co,sl	3175395	CH,VA,SI,SM,FR,AT	
+SM	SMR	674	SM	San Marino	San Marino	61.2	33785	EU	.sm	EUR	Euro	378	4789#	^(4789\d)$	it-SM	3168068	IT	

@@ -1,0 +1,16 @@
+AR.20	Santa Cruz	Santa Cruz	3838830
+CL.02	Aysén	Aysen	3899191
+CL.12	Magallanes	Magallanes	3874637
+FJ.01	Central	Central	2198148
+FJ.02	Eastern	Eastern	2206598
+FJ.03	Northern	Northern	2202565
+FJ.04	Rotuma	Rotuma	2202027
+FJ.05	Western	Western	2194370
+GH.07	Greater Accra	Greater Accra	2300569
+IT.05	Emilia-Romagna	Emilia-Romagna	3177401
+IT.07	Lazio	Lazio	3174976
+IT.09	Lombardy	Lombardy	3174618
+IT.16	Tuscany	Tuscany	3165361
+SM.06	Borgo Maggiore	Borgo Maggiore	3345302
+SM.07	San Marino	San Marino	3345303
+SM.09	Serravalle	Serravalle	3345305

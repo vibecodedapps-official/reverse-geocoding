@@ -1,0 +1,46 @@
+3000001	Río Gallegos 	Rio Gallegos		-51.62261	-69.21813	P	PPLA	AR		20				98315		10	America/Argentina/Rio_Gallegos	2024-01-01
+3000002	El Calafate	El Calafate		-50.34075	-72.27682	P	PPL	AR		20				21132		10	America/Argentina/Rio_Gallegos	2024-01-01
+3000003	Río Turbio	Rio Turbio		-51.53587	-72.33871	P	PPL	AR		20				6600		10	America/Argentina/Rio_Gallegos	2024-01-01
+3000004	28 de Noviembre	28 de Noviembre		-51.57866	-72.21207	P	PPL	AR		20				5300		10	America/Argentina/Rio_Gallegos	2024-01-01
+3000005	El Chaltén	El Chalten		-49.33137	-72.88635	P	PPL	AR		20				1627		10	America/Argentina/Rio_Gallegos	2024-01-01
+3000006	Cochrane	Cochrane		-47.25417	-72.57500	P	PPL	CL		02				2867		10	America/Santiago	2024-01-01
+3000007	Caleta Tortel	Caleta Tortel		-47.79583	-73.53306	P	PPL	CL		02				523		10	America/Santiago	2024-01-01
+3000008	Villa O'Higgins	Villa O'Higgins		-48.46750	-72.56000	P	PPL	CL		02				612		10	America/Santiago	2024-01-01
+3000009	Puerto Edén	Puerto Eden		-49.12833	-74.41194	P	PPL	CL		12				176		10	America/Punta_Arenas	2024-01-01
+3000010	Puerto Natales	Puerto Natales		-51.72987	-72.50603	P	PPLA2	CL		12				20000		10	America/Punta_Arenas	2024-01-01
+3000011	Punta Arenas	Punta Arenas		-53.16282	-70.93164	P	PPLA	CL		12				117430		10	America/Punta_Arenas	2024-01-01
+3000012	Porvenir	Porvenir		-53.29575	-70.36875	P	PPLA2	CL		12				5465		10	America/Punta_Arenas	2024-01-01
+3000013	Suva	Suva		-18.14161	178.44149	P	PPLC	FJ		01				77366		10	Pacific/Fiji	2024-01-01
+3000014	Nadi	Nadi		-17.80309	177.41617	P	PPL	FJ		05				42284		10	Pacific/Fiji	2024-01-01
+3000015	Lautoka	Lautoka		-17.61686	177.45050	P	PPLA	FJ		05				52500		10	Pacific/Fiji	2024-01-01
+3000016	Labasa	Labasa		-16.41667	179.38333	P	PPLA	FJ		03				24187		10	Pacific/Fiji	2024-01-01
+3000017	Savusavu	Savusavu		-16.77960	179.33240	P	PPL	FJ		03				4970		10	Pacific/Fiji	2024-01-01
+3000018	Waiyevo	Waiyevo		-16.78333	179.98333	P	PPL	FJ		03				600		10	Pacific/Fiji	2024-01-01
+3000019	Vuna	Vuna		-16.93333	-179.91667	P	PPL	FJ		03				600		10	Pacific/Fiji	2024-01-01
+3000020	Tubou	Tubou		-18.23333	-178.80000	P	PPL	FJ		02				600		10	Pacific/Fiji	2024-01-01
+3000021	Accra	Accra		5.55602	-0.19690	P	PPLC	GH		07				1963264		10	Africa/Accra	2024-01-01
+3000022	Florence	Florence		43.77925	11.24626	P	PPLA	IT		16				349296		10	Europe/Rome	2024-01-01
+3000023	Prato	Prato		43.88050	11.09690	P	PPLA2	IT		16				185456		10	Europe/Rome	2024-01-01
+3000024	Pisa	Pisa		43.70853	10.40360	P	PPLA2	IT		16				90118		10	Europe/Rome	2024-01-01
+3000025	Siena	Siena		43.31822	11.33064	P	PPLA2	IT		16				52839		10	Europe/Rome	2024-01-01
+3000026	Arezzo	Arezzo		43.46276	11.88068	P	PPLA2	IT		16				98144		10	Europe/Rome	2024-01-01
+3000027	Lucca	Lucca		43.84369	10.50447	P	PPLA2	IT		16				89046		10	Europe/Rome	2024-01-01
+3000028	Livorno	Livorno		43.54427	10.32615	P	PPLA2	IT		16				157052		10	Europe/Rome	2024-01-01
+3000029	Pistoia	Pistoia		43.93064	10.90799	P	PPLA2	IT		16				89101		10	Europe/Rome	2024-01-01
+3000030	Grosseto	Grosseto		42.76296	11.10941	P	PPLA2	IT		16				81308		10	Europe/Rome	2024-01-01
+3000031	Piombino	Piombino		42.92554	10.52535	P	PPL	IT		16				34419		10	Europe/Rome	2024-01-01
+3000032	Bagno di Romagna	Bagno di Romagna		43.83396	11.95955	P	PPL	IT		05				1900		10	Europe/Rome	2024-01-01
+3000033	Bologna	Bologna		44.49381	11.33875	P	PPLA	IT		05				366133		10	Europe/Rome	2024-01-01
+3000034	Modena	Modena		44.64783	10.92539	P	PPLA2	IT		05				175502		10	Europe/Rome	2024-01-01
+3000035	Parma	Parma		44.80107	10.32798	P	PPLA2	IT		05				146299		10	Europe/Rome	2024-01-01
+3000036	Reggio Emilia	Reggio Emilia		44.69825	10.63125	P	PPLA2	IT		05				141877		10	Europe/Rome	2024-01-01
+3000037	Ferrara	Ferrara		44.83804	11.62057	P	PPLA2	IT		05				132009		10	Europe/Rome	2024-01-01
+3000038	Ravenna	Ravenna		44.41344	12.20121	P	PPLA2	IT		05				153740		10	Europe/Rome	2024-01-01
+3000039	Forlì	Forli		44.22177	12.04144	P	PPLA2	IT		05				108335		10	Europe/Rome	2024-01-01
+3000040	Piacenza	Piacenza		45.05242	9.69342	P	PPLA2	IT		05				95594		10	Europe/Rome	2024-01-01
+3000041	Castiglione dei Pepoli	Castiglione dei Pepoli		44.14232	11.15603	P	PPL	IT		05				5868		10	Europe/Rome	2024-01-01
+3000042	Rome	Rome		41.89193	12.51133	P	PPLC	IT		07				2318895		10	Europe/Rome	2024-01-01
+3000043	Milan	Milan		45.46427	9.18951	P	PPLA	IT		09				1236837		10	Europe/Rome	2024-01-01
+3000044	San Marino	San Marino		43.93667	12.44639	P	PPLC	SM		07				4500		10	Europe/San_Marino	2024-01-01
+3000045	Borgo Maggiore	Borgo Maggiore		43.94083	12.44806	P	PPLA	SM		06				6527		10	Europe/San_Marino	2024-01-01
+3000046	Serravalle	Serravalle		43.96897	12.48167	P	PPLA	SM		09				10878		10	Europe/San_Marino	2024-01-01

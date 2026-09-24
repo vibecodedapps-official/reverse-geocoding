@@ -1,0 +1,2 @@
+# Byte-exact on every checkout: the build hashes these files and parses them as data.
+* -text
