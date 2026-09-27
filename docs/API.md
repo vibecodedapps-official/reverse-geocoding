@@ -25,7 +25,8 @@ Every other path returns `404 not_found`. Any other method on `/v1/reverse` retu
 `405 method_not_allowed` with `Allow: GET`. The lookup is `POST` only, so a coordinate never
 lands in a URL, an access log, a `Referer` header, or a browser history.
 
-Plaintext HTTP is not served. TLS 1.2 is the minimum.
+Plaintext HTTP is not served: every request over `http://`, on any path, returns
+`403 https_required` and is not authenticated, counted, or read. TLS 1.2 is the minimum.
 
 ## Authentication
 
@@ -81,7 +82,7 @@ is read, so a malformed body still counts as an attempt.
 
 ## Response
 
-Every response from `/v1/reverse`, `/healthz`, and the `404` and `405` errors is
+Every response from `/v1/reverse`, `/healthz`, and the `403`, `404`, and `405` errors is
 `application/json; charset=utf-8` with `Cache-Control: no-store` and an `X-Request-Id` header
 equal to `request_id` in the body. `GET /` is the one exception: it returns
 `text/html; charset=utf-8` with an `X-Request-Id` header and no JSON envelope.
@@ -221,6 +222,7 @@ lies within the 500 km search radius, else `null`.
 | 400 | `unexpected_field` | false | `field` names the property. The value is never included |
 | 400 | `invalid_request` | false | Wrong or missing `Content-Type`, invalid UTF-8, malformed JSON, wrong type, missing required field, `precision` negative or not an integer, `max_label_length` out of range. `field` is set when one field is at fault |
 | 401 | `invalid_key` | false | `WWW-Authenticate: Bearer` |
+| 403 | `https_required` | false | The request arrived over plaintext HTTP. Retry the same request over HTTPS, and treat any key it carried as exposed |
 | 404 | `not_found` | false | |
 | 405 | `method_not_allowed` | false | `Allow: POST` on `/v1/reverse`, `Allow: GET` on `/` and `/healthz` |
 | 413 | `request_too_large` | false | |

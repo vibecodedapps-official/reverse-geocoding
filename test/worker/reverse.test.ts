@@ -201,6 +201,21 @@ describe("POST /v1/reverse", () => {
 });
 
 describe("routing", () => {
+  it.each([
+    ["POST", "/v1/reverse"],
+    ["GET", "/healthz"],
+    ["GET", "/"],
+    ["GET", "/v2/reverse"],
+  ])("refuses %s %s over plaintext HTTP with 403 https_required", async (method, path) => {
+    const request = new Request(`http://reverse-geocoding.test${path}`, {
+      method,
+      ...(method === "POST"
+        ? { headers: { "Content-Type": "application/json", Authorization: `Bearer ${MAIN_KEY}` }, body: JSON.stringify(FLORENCE) }
+        : {}),
+    });
+    await expectError(await worker.fetch(request, env), 403, "https_required");
+  });
+
   it("answers an unknown path with 404 not_found", async () => {
     await expectError(await fetchPath("/v2/reverse"), 404, "not_found");
   });

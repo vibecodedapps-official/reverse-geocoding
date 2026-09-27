@@ -4,6 +4,7 @@ export type ErrorCode =
   | "unexpected_field"
   | "invalid_request"
   | "invalid_key"
+  | "https_required"
   | "not_found"
   | "method_not_allowed"
   | "request_too_large"
@@ -16,6 +17,7 @@ const ERRORS: Record<ErrorCode, { http: number; retryable: boolean }> = {
   unexpected_field: { http: 400, retryable: false },
   invalid_request: { http: 400, retryable: false },
   invalid_key: { http: 401, retryable: false },
+  https_required: { http: 403, retryable: false },
   not_found: { http: 404, retryable: false },
   method_not_allowed: { http: 405, retryable: false },
   request_too_large: { http: 413, retryable: false },

@@ -191,7 +191,9 @@ function page(r: RequestState): Response {
 }
 
 async function route(request: Request, env: Cloudflare.Env, r: RequestState): Promise<Response> {
-  const { pathname } = new URL(request.url);
+  const { pathname, protocol } = new URL(request.url);
+  // Refused rather than redirected: by now the key and the coordinate have already crossed in the clear.
+  if (protocol !== "https:") return fail(r, "https_required", "Use HTTPS.");
   if (pathname === "/v1/reverse") {
     if (request.method !== "POST") return fail(r, "method_not_allowed", "Use POST.", { headers: { Allow: "POST" } });
     return reverse(request, env, r);
