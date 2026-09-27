@@ -21,3 +21,11 @@ invocation_logs = false
 
 # Secret, not a var: KEYS is a JSON list of {"id", "sha256", "daily_limit"}.
 # Set with: wrangler secret put KEYS
+
+# A separate Worker with its own keys and counter, for callers' development environments.
+# Deploy with: wrangler deploy --env dev. Durable Object bindings are not inherited.
+[env.dev]
+
+[[env.dev.durable_objects.bindings]]
+name = "COUNTER"
+class_name = "DailyCounter"
