@@ -20,3 +20,6 @@ Thumbs.db
 
 # test build of the synthetic fixture
 test/.build/
+
+# supabase cli state from running it in this directory
+supabase/.temp/
