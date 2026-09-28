@@ -19,6 +19,15 @@ export interface PinManifest {
   files: Pin[];
 }
 
+/**
+ * Where the build fetches a pin whose bytes are not in data/raw. GeoNames replaces its files
+ * daily, so those come from the archive release. The geoBoundaries files are fetched at a fixed
+ * commit, so their upstream URL already serves the pinned bytes and they are not archived.
+ */
+export function archiveUrlFor(source: Pin["source"], upstreamUrl: string, sha256: string, archiveBaseUrl: string): string {
+  return source === "geoboundaries" ? upstreamUrl : `${archiveBaseUrl}${sha256}`;
+}
+
 const PIN_FIELDS = ["name", "source", "upstream_url", "retrieved", "version", "sha256", "archive_url"] as const;
 
 export function readPinManifest(path: string): PinManifest {

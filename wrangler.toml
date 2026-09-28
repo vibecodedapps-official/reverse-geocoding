@@ -6,6 +6,10 @@ compatibility_date = "2026-08-15"
 # data/build/*.bin are imported as ArrayBuffers.
 rules = [{ type = "Data", globs = ["**/*.bin"], fallthrough = false }]
 
+# Production answers only on its custom domain; attribution_url is derived from the request origin.
+routes = [{ pattern = "reverse-geocode.vibecodedapps.net", custom_domain = true }]
+workers_dev = false
+
 [[durable_objects.bindings]]
 name = "COUNTER"
 class_name = "DailyCounter"
@@ -24,7 +28,10 @@ invocation_logs = false
 
 # A separate Worker with its own keys and counter, for callers' development environments.
 # Deploy with: wrangler deploy --env dev. Durable Object bindings are not inherited.
+# routes and workers_dev are, so dev overrides both to stay on its workers.dev URL.
 [env.dev]
+routes = []
+workers_dev = true
 
 [[env.dev.durable_objects.bindings]]
 name = "COUNTER"

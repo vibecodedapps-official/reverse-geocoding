@@ -3,7 +3,8 @@
 // Usage: node data/build.ts
 //
 // Reads data/manifest.json. Each pinned file is taken from data/raw when its SHA-256 matches,
-// else fetched from the archive, never from upstream. Writes data/build/settlements.bin,
+// else fetched from its archive_url: the archive release for GeoNames files, the fixed-commit
+// upstream URL for geoBoundaries files. Writes data/build/settlements.bin,
 // data/build/boundaries.bin, data/build/manifest.json, and data/build/report.json.
 
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";

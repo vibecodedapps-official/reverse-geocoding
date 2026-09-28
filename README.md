@@ -68,9 +68,10 @@ npm run test:data    # calibration and edge fixtures against the real index
 ```
 
 `npm run data:build` takes each pinned file from `data/raw` when its checksum
-matches, and otherwise from the data archive. The archive release is not
-published yet, so on a fresh clone run `npm run data:pin` first. GeoNames
-replaces its files daily, so a fresh pin changes the checksums in
+matches. Otherwise it downloads the GeoNames files from the `data-archive`
+release and the geoBoundaries files from their fixed upstream commit. GeoNames
+replaces its files daily, so after `npm run data:pin` run
+`node data/pin.ts --upload` the same day. A fresh pin changes the checksums in
 `data/manifest.json`, and the build may report new ADM1 polygons it cannot map
 to a GeoNames region; those go in `data/admin1-overrides.csv`. Each row maps a
 polygon to the GeoNames region whose name it matches, to the region most of its

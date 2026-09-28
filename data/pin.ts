@@ -3,9 +3,10 @@
 // Usage:
 //   node data/pin.ts            Download the current upstream files into data/raw and write
 //                               their checksums into data/manifest.json.
-//   node data/pin.ts --upload   Upload each pinned file in data/raw to the archive release as an
+//   node data/pin.ts --upload   Upload each archived pin in data/raw to the archive release as an
 //                               asset named by its SHA-256, using the gh CLI. An asset that
-//                               already exists is never replaced.
+//                               already exists is never replaced. The geoBoundaries files are
+//                               pinned at a fixed upstream commit and are not archived.
 //
 // GeoNames overwrites its dump files daily and keeps no dated copies, so upload the same day
 // as the download; the archive copy is the only way to rebuild from these pins later.
@@ -13,7 +14,7 @@
 import { execFileSync } from "node:child_process";
 import { copyFileSync, linkSync, mkdirSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
-import { download, readPinManifest, sha256File, type Pin } from "./lib/pins.ts";
+import { archiveUrlFor, download, readPinManifest, sha256File, type Pin } from "./lib/pins.ts";
 import { SOURCE_FILES } from "./lib/sources.ts";
 
 const dataDir = import.meta.dirname;
@@ -50,7 +51,7 @@ async function pin(): Promise<void> {
       retrieved,
       version: u.source === "geonames" ? retrieved : `${GEOBOUNDARIES_TAG} (${GEOBOUNDARIES_COMMIT})`,
       sha256: got.sha256,
-      archive_url: `${manifest.archive_base_url}${got.sha256}`,
+      archive_url: archiveUrlFor(u.source, u.url, got.sha256, manifest.archive_base_url),
     });
   }
   writeFileSync(manifestPath, `${JSON.stringify({ archive_base_url: manifest.archive_base_url, files }, null, 2)}\n`);
@@ -72,6 +73,7 @@ async function upload(): Promise<void> {
   mkdirSync(staging, { recursive: true });
   try {
     for (const p of manifest.files) {
+      if (!p.archive_url.startsWith(manifest.archive_base_url)) continue;
       const local = join(rawDir, p.name);
       const sha = await sha256File(local);
       if (sha !== p.sha256) throw new Error(`${p.name}: data/raw copy has SHA-256 ${sha}, pin expects ${p.sha256}`);
